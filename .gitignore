@@ -12,7 +12,7 @@
 /build
 
 # readme
-README.md
+/*.md
 
 # misc
 .DS_Store
